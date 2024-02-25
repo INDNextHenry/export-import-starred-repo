@@ -1,5 +1,6 @@
 # export-import-starred-repo
-一个简单的Python脚本来完成这两个任务：导出GitHub上你标星的仓库（Starred Repositories）和导入标星到你的GitHub账户
+A simple Python script to accomplish these two tasks: export your Starred Repositories on GitHub (Starred Repositories) and import Starred to your GitHub account
+
 ## Usage
 
 Export:
